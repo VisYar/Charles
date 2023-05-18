@@ -48,7 +48,7 @@ Task:
                 <host>162.55.220.72</host>
                 <port>5005</port>
                 <path>/get_method</path>
-                <query>name=Dmitry&amp;age=31</query>
+                <query>name=Tata&amp;age=42</query>
               </location>
               <request>false</request>
               <response>true</response>
@@ -70,7 +70,7 @@ Task:
                       <host>162.55.220.72</host>
                       <port>5005</port>
                       <path>/get_method</path>
-                      <query>name=Dmitry&amp;age=31</query>
+                      <query>name=Tata&amp;age=42</query>
                     </location>
                     <enabled>true</enabled>
                   </locationMatch>
@@ -200,7 +200,7 @@ Task:
                 <host>162.55.220.72</host>
                 <port>5005</port>
                 <path>/object_info_1</path>
-                <query>name=Dmitry&amp;age=31&amp;weight=63</query>
+                <query>name=Tata&amp;age=42&amp;weight=63</query>
               </location>
               <request>false</request>
               <response>true</response>
@@ -222,7 +222,7 @@ Task:
                       <host>162.55.220.72</host>
                       <port>5005</port>
                       <path>/object_info_1</path>
-                      <query>name=Dmitry&amp;age=31&amp;weight=63</query>
+                      <query>name=Tata&amp;age=42&amp;weight=63</query>
                     </location>
                     <enabled>true</enabled>
                   </locationMatch>
@@ -284,7 +284,7 @@ Task:
                 <host>162.55.220.72</host>
                 <port>5005</port>
                 <path>/object_info_3</path>
-                <query>name=Dmitry&amp;age=31&amp;salary=1000</query>
+                <query>name=Tata&amp;age=42&amp;salary=1000</query>
               </location>
               <request>false</request>
               <response>true</response>
@@ -306,7 +306,7 @@ Task:
                       <host>162.55.220.72</host>
                       <port>5005</port>
                       <path>/object_info_3</path>
-                      <query>name=Dmitry&amp;age=31&amp;salary=1000</query>
+                      <query>name=Tata&amp;age=42&amp;salary=1000</query>
                     </location>
                     <enabled>true</enabled>
                   </locationMatch>
@@ -378,7 +378,7 @@ Task:
                 <host>162.55.220.72</host>
                 <port>5005</port>
                 <path>/object_info_4</path>
-                <query>name=Dmitry&amp;age=31&amp;salary=1000</query>
+                <query>name=Tata&amp;age=42&amp;salary=1000</query>
               </location>
               <request>false</request>
               <response>true</response>
@@ -400,7 +400,7 @@ Task:
                       <host>162.55.220.72</host>
                       <port>5005</port>
                       <path>/object_info_4</path>
-                      <query>name=Dmitry&amp;age=31&amp;salary=1000</query>
+                      <query>name=Tata&amp;age=42&amp;salary=1000</query>
                     </location>
                     <enabled>true</enabled>
                   </locationMatch>
